@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "serve-card": "/components/serveCard/index",
+    "uni-search-bar": "/components/search/uni-search-bar/uni-search-bar"
+  }
+}

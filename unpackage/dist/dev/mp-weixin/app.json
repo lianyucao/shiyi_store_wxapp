@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "views",
+      "pages": [
+        "home",
+        "hyyuyue/index",
+        "wxrecord/index",
+        "hydeposit/index",
+        "subsidies/index",
+        "wxorder/index",
+        "shop/discountmall",
+        "shop/goodsdetail",
+        "shop/settlement"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "实驿科技",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap54.json"
+}

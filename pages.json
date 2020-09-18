@@ -1,0 +1,35 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index"
+		}
+	],
+	"subPackages":[{
+		"root":"views",
+		"pages":[{
+			"path":"home"
+		},{
+			"path":"hyyuyue/index"
+		},{
+			"path":"wxrecord/index"
+		},{
+			"path":"hydeposit/index"
+		},{
+			"path":"subsidies/index"
+		},{
+			"path":"wxorder/index"
+		},{
+			"path":"shop/discountmall"
+		},{
+			"path":"shop/goodsdetail"
+		},{
+			"path":"shop/settlement"
+		}]
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "实驿科技",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
